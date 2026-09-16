@@ -15,7 +15,7 @@
 - 🎓 Pursuing an **MSc in Artificial Intelligence** at Nanyang Technological University, Singapore
 - 🎓 BTech in Computer Science & Engineering, **IIT Indore**
 - 🎯 Focused on **computer vision and deep learning architectures**
-- 🔬 Published first-author research on hyperspectral image denoising at [**WACV 2024**](https://ieeexplore.ieee.org/document/10944020)
+- 🔬 Published research on hyperspectral image denoising at [**WACV 2024**](https://ieeexplore.ieee.org/document/10944020)
 
 *(No work-history section here on purpose — keeping this space project- and research-focused rather than a résumé mirror.)*
 
