@@ -2,8 +2,9 @@
 
 <img src="assets/banner.svg" alt="Nischit Hosamani" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nischit29-f5f5f5?style=flat-square&logo=linkedin&logoColor=333333&labelColor=ffffff)](https://www.linkedin.com/in/nischit29/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-nischitv29%40gmail.com-f5f5f5?style=flat-square&logo=gmail&logoColor=333333&labelColor=ffffff)](mailto:nischitv29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nischit29-f5f5f5?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=1a1a1a)](https://www.linkedin.com/in/nischit29/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-profile-f5f5f5?style=flat-square&logo=googlescholar&logoColor=ffffff&labelColor=1a1a1a)](https://scholar.google.com/citations?user=9VNBbX8AAAAJ&hl=en)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-nischitv29%40gmail.com-f5f5f5?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=1a1a1a)](mailto:nischitv29@gmail.com)
 
 </div>
 
@@ -45,4 +46,6 @@ No work history section here. This space stays project and research focused.
 
 ### Open Source and Collaborative Work
 
-[Accord](https://github.com/ShreyanshGoyal/top_secret): an agentic Slack-policy-decision tool wired to GitHub and a read-only ClickHouse view. I designed and built the test-fixture harness and 8-scenario verification suite the agent is validated against, including a hash-verified policy generator and a matched pair of demo PRs (a cosmetic-only fix and a real fix) used to prove the system tells them apart.
+| Project | Contribution | Stack |
+|---|---|---|
+| [Accord](https://github.com/ShreyanshGoyal/top_secret) | Agentic Slack-policy-decision tool wired to GitHub and a read-only ClickHouse view. I designed and built the test-fixture harness and 8-scenario verification suite the agent is validated against, including a hash-verified policy generator and a matched pair of demo PRs (a cosmetic-only fix and a real fix) used to prove the system tells them apart. | Slack, GitHub, ClickHouse |
