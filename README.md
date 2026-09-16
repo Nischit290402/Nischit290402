@@ -1,8 +1,6 @@
 <div align="center">
 
-# Nischit Hosamani
-
-**Computer vision and deep learning. MS in Artificial Intelligence at NTU Singapore.**
+<img src="assets/banner.svg" alt="Nischit Hosamani" width="100%"/>
 
 [LinkedIn](https://www.linkedin.com/in/nischit29/) · [nischitv29@gmail.com](mailto:nischitv29@gmail.com)
 
@@ -28,6 +26,13 @@ No work history section here. This space stays project and research focused.
 **AI/ML:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Keras, Pandas, NumPy, LangGraph, Pydantic, VectorDB
 
 **Infrastructure:** Docker, Kubernetes, Kafka, Redis, MySQL, GCP, AWS, CI/CD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nischit290402&show_icons=true&theme=default&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=555555&border_color=d0d0d0&border_radius=4&hide_border=false" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischit290402&layout=compact&theme=default&bg_color=ffffff&title_color=111111&text_color=333333&border_color=d0d0d0&border_radius=4&hide_border=false" alt="Top languages" height="165"/>
+
+</div>
 
 ### Flagship Projects
 
