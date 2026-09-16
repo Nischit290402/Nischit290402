@@ -1,1 +1,13 @@
-²ø0‰Ûa
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#e6e6e6" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="200" fill="#ffffff"/>
+  <rect width="900" height="200" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+  <text x="48" y="92" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#111111" font-weight="600">Nischit Hosamani</text>
+  <text x="48" y="126" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#555555">Computer vision and deep learning. MS in Artificial Intelligence at NTU Singapore.</text>
+  <line x1="48" y1="146" x2="230" y2="146" stroke="#111111" stroke-width="2"/>
+</svg>
