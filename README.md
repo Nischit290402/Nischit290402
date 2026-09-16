@@ -2,7 +2,8 @@
 
 <img src="assets/banner.svg" alt="Nischit Hosamani" width="100%"/>
 
-[LinkedIn](https://www.linkedin.com/in/nischit29/) · [nischitv29@gmail.com](mailto:nischitv29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nischit29-f5f5f5?style=flat-square&logo=linkedin&logoColor=333333&labelColor=ffffff)](https://www.linkedin.com/in/nischit29/)
+[![Email](https://img.shields.io/badge/Email-nischitv29%40gmail.com-f5f5f5?style=flat-square&logo=gmail&logoColor=333333&labelColor=ffffff)](mailto:nischitv29@gmail.com)
 
 </div>
 
@@ -29,8 +30,7 @@ No work history section here. This space stays project and research focused.
 
 <div align="center">
 
-<img src="https://github-readme-stats-six-pi-15.vercel.app/api?username=Nischit290402&show_icons=true&theme=default&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=555555&border_color=d0d0d0&border_radius=4&hide_border=false" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats-six-pi-15.vercel.app/api/top-langs/?username=Nischit290402&layout=compact&theme=default&bg_color=ffffff&title_color=111111&text_color=333333&border_color=d0d0d0&border_radius=4&hide_border=false" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-six-pi-15.vercel.app/api/top-langs/?username=Nischit290402&layout=compact&theme=default&bg_color=ffffff&title_color=111111&text_color=333333&border_color=d0d0d0&border_radius=4&hide_border=false&card_width=860&langs_count=8" alt="Top languages" width="600"/>
 
 </div>
 
@@ -49,4 +49,5 @@ No work history section here. This space stays project and research focused.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/nischit29/) · [nischitv29@gmail.com](mailto:nischitv29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nischit29-f5f5f5?style=flat-square&logo=linkedin&logoColor=333333&labelColor=ffffff)](https://www.linkedin.com/in/nischit29/)
+[![Email](https://img.shields.io/badge/Email-nischitv29%40gmail.com-f5f5f5?style=flat-square&logo=gmail&logoColor=333333&labelColor=ffffff)](mailto:nischitv29@gmail.com)
