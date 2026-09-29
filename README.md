@@ -18,7 +18,6 @@
 - Focused on computer vision and deep learning architectures.
 - Published research on hyperspectral image denoising at [WACV 2025](https://ieeexplore.ieee.org/document/10944020).
 
-No work history section here. This space stays project and research focused.
 
 ### Tech Stack
 
