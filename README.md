@@ -12,7 +12,6 @@
 
 ### About
 
-This page points to finished, working projects rather than mirroring a resume.
 
 - Pursuing an MSc in Artificial Intelligence at Nanyang Technological University, Singapore.
 - BTech in Computer Science and Engineering, IIT Indore.
